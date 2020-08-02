@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![daido1976's github stats](https://github-readme-stats.vercel.app/api?username=daido1976)](https://github.com/anuraghazra/github-readme-stats)
+[![daido1976's github stats](https://github-readme-stats.vercel.app/api?username=daido1976&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Powered by https://github.com/anuraghazra/github-readme-stats
