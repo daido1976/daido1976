@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[View OSS activity outside of my repository](https://github.com/search?q=involves%3Adaido1976+-user%3Adaido1976+is%3Apublic+-org%3Afeedforce)
+
 [![daido1976's github stats](https://github-readme-stats.vercel.app/api?username=daido1976&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Powered by https://github.com/anuraghazra/github-readme-stats
